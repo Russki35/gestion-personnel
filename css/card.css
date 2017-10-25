@@ -1,0 +1,17 @@
+div.card{
+    
+}
+
+img.card-img-top{
+    width: 10rem;
+    margin-top: 50px;
+}
+
+div.card-block{
+    display: inline-block;
+    text-align: center;
+    
+}
+
+
+
